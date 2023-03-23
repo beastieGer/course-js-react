@@ -1,5 +1,3 @@
-let num = 50;
-
-while (num < 55) {
-  console.log(num++);
-}
+// console.log(personalMovieDB);
+const test = "12.2px";
+console.log(parseFloat(test));
